@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(47, 255, 238, 0.699);
+}
+
+.home{
+    height: 100vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.2)),
+        url(../imgs/Portfolio.webp);
+        background-size: cover;
+        
+}
